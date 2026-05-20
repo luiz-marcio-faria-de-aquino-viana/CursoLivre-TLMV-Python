@@ -1,0 +1,43 @@
+# Curso de Linguagem de Programação Python
+
+Titulo: Introdução à Internet das Coisas
+
+Tipo: Curso Livre - TLMV - Linguagem de Programação Python (em 2026)
+
+Carga Horária: 24 horas
+
+Professor: Luiz Marcio Fario de Aquino Viana,Pós-D.Sc. (em 2026)
+
+# Referências
+
+Igor Aleksander, Ph.D. - Imperial College London
+https://en.wikipedia.org/wiki/Igor_Aleksander
+https://www.imperial.ac.uk/about/history/past-people/
+
+Felipe Maia Galvão França, Ph.D. - Imperial College London
+https://www.cos.ufrj.br/index.php/pt-BR/pessoas/details/18/1018-felipe
+
+Priscila Machado Vieira Lima, Ph.D. - Imperial College London
+https://www.cos.ufrj.br/index.php/pt-BR/pessoas-search/details/18/2721
+
+Iuri Wickert, M.Sc. Modos de Aprendizado Não-Supervisionado para o Modelo Neural Sem-Pesos WISARD. 2001. 
+Dissertação (Mestrado em Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.
+
+Leandro Almeida Araújo, M.Sc.; RWISARD: Um Modelo de Rede Neural Sem Peso para Reconhecimento e Classificação de Imagens em Escala de Cinza. 2001. 
+Dissertação (Mestrado em Engenharia de Sistemas e Computação) - Universidade Federal do Rio de Janeiro.
+
+Learning From Data, Yaser S. Abu-Mostafa (https://work.caltech.edu/telecourse)
+
+# Nota
+
+Material Didático do Curso Livre, que foi preparado para capacitação técnica de profissionais em Maio/2026.
+
+# Contato
+
+CONTACT ME, IF YOU NEED HELP OR HAVE ANY QUESTIONS ABOUT THIS ACADEMIC WORK!
+
+Luiz Marcio Faria de Aquino Viana,Pós-D.Sc.
+
+E-mail: luiz.marcio.viana@gmail.com
+
+Phone: +55-21-99983-7207 - WhatsApp: +55-21-95911-5253
